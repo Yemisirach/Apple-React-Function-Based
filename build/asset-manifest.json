@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e944f613.css",
+    "main.js": "/static/js/main.23b46dfe.js",
+    "static/media/Sixth.jpg": "/static/media/Sixth.d0e03dd26475b9d3df6e.jpg",
+    "static/media/Second.jpg": "/static/media/Second.622498ecb31852928bdd.jpg",
+    "static/media/eleventh.jpg": "/static/media/eleventh.2bd341aab9b6e807088f.jpg",
+    "static/media/tenth.jpg": "/static/media/tenth.a33c8b8dd85301007998.jpg",
+    "static/media/Seventh.jpg": "/static/media/Seventh.8f55622401051d0cf695.jpg",
+    "static/media/eighth.jpg": "/static/media/eighth.a3997c2d6dad02fe1780.jpg",
+    "static/media/Third.jpg": "/static/media/Third.e83ef579cc3250724ad1.jpg",
+    "static/media/frist.jpg": "/static/media/frist.d3f0bd06d93d5e410f96.jpg",
+    "static/media/Fifth.jpg": "/static/media/Fifth.40e7a076e2a11e622504.jpg",
+    "static/media/twelve.jpg": "/static/media/twelve.7a7368249c0b15cd949f.jpg",
+    "static/media/Fourth.jpg": "/static/media/Fourth.f9edafdd894fe8074411.jpg",
+    "static/media/ninth.jpg": "/static/media/ninth.5c70103dcb591033a88b.jpg",
+    "static/media/promo_ws7_hard_knocks__e1bfj1fios6e_small.jpg": "/static/media/promo_ws7_hard_knocks__e1bfj1fios6e_small.362fdc5c726494365ba1.jpg",
+    "static/media/hero_macbookair__el7scava26mq_large.png": "/static/media/hero_macbookair__el7scava26mq_large.350d8e9a9749134c4feb.png",
+    "static/media/hero_bts__bcuslanw39xe_large.jpg": "/static/media/hero_bts__bcuslanw39xe_large.38066521d920a258a21e.jpg",
+    "static/media/hero_iphone13_avail__gnqqkzuai6um_large.jpg": "/static/media/hero_iphone13_avail__gnqqkzuai6um_large.a2b38f4e47b1ae5e6f38.jpg",
+    "static/media/macbookair-new.jpg": "/static/media/macbookair-new.f94e24a8383395b7d3e2.jpg",
+    "static/media/promo_mbp13__buwssod6c8vm_large.jpg": "/static/media/promo_mbp13__buwssod6c8vm_large.93a76ec529f5536d73e7.jpg",
+    "static/media/promo_katy_perry__eqekd92guu4i_small.jpg": "/static/media/promo_katy_perry__eqekd92guu4i_small.4e05f3edc35bf2e994e3.jpg",
+    "static/media/ipodPronew.jpg": "/static/media/ipodPronew.03e7d6e41eae3bca23ad.jpg",
+    "static/media/hero_macbookair__el7scava26mq_small.png": "/static/media/hero_macbookair__el7scava26mq_small.6589971f5dc8ce55e0bb.png",
+    "static/media/promo_ipadair_avail__ferd4bfpcdm6_small.jpg": "/static/media/promo_ipadair_avail__ferd4bfpcdm6_small.e5f1d154f4e0e12dd9a8.jpg",
+    "static/media/promo_iphone13pro_avail__beadms4ldidu_small.jpg": "/static/media/promo_iphone13pro_avail__beadms4ldidu_small.4fe5efb9796ab085b7da.jpg",
+    "static/media/tile__cauwwcyyn9hy_small.jpg": "/static/media/tile__cauwwcyyn9hy_small.f696674bbf8cb56686d5.jpg",
+    "index.html": "/index.html",
+    "main.e944f613.css.map": "/static/css/main.e944f613.css.map",
+    "main.23b46dfe.js.map": "/static/js/main.23b46dfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e944f613.css",
+    "static/js/main.23b46dfe.js"
+  ]
+}

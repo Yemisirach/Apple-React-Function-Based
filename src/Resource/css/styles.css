@@ -1,0 +1,683 @@
+/* General Styling*/
+body {
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  color: #06c;
+}
+img {
+  max-width: 100%;
+}
+.white {
+  color: #fff;
+}
+.black {
+  color: #1d1d1f;
+}
+.grey {
+  color: #86868b;
+}
+.top-50 {
+  margin-top: 50px;
+}
+/* Header Style */
+.nav-wrapper {
+  background: rgba(0, 0, 0, 0.8);
+  font-size: 10px;
+  font-weight: 400;
+
+  align-items: center;
+}
+.nav-wrapper img {
+  width: 14px;
+}
+.nav-wrapper ul li a {
+  color: #fff;
+}
+.navbar-toggler {
+  color: #fff;
+}
+.nav-item {
+  text-align: left !important;
+  padding: 0 0px;
+  border-bottom: 1px solid #4b4b4b;
+}
+/*add-section*/
+.add-container {
+  background-color: #f5f5f7;
+  height: 72px;
+  font-size: 1em;
+  font-weight: 400;
+}
+.add-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  text-align: center;
+}
+.add-logo {
+  width: 120px;
+  padding-top: 21px;
+  padding-bottom: 26px;
+}
+.add-word {
+  padding-top: 15px;
+  padding-bottom: 31px;
+  padding-left: 10px;
+}
+/* Footer Styling */
+.footer-wrapper {
+  background-color: #f5f5f7;
+  color: #86868b;
+  font-size: 0.7em;
+}
+.footer-wrapper ul {
+  list-style: none;
+  padding-bottom: 10px;
+  padding-inline-start: 0px;
+}
+.footer-wrapper ul a {
+  color: #515154;
+  text-decoration: none;
+}
+.footer-wrapper ul a:hover {
+  color: #515154;
+  text-decoration: underline;
+}
+.my-apple-wrapper {
+  padding-bottom: 15px;
+  margin-top: 10px;
+}
+.copyright {
+  margin-top: 15px;
+}
+.footer-country {
+  margin-top: 8px;
+}
+.flag-wrapper {
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 5px;
+}
+.footer-country-name {
+  display: inline-block;
+  vertical-align: middle;
+}
+.footer-links-terms ul {
+  display: flex;
+}
+.footer-links-terms ul li {
+  padding: 0 10px;
+  border-right: 1px solid #d2d2d7;
+}
+.footer-links-terms ul li:first-child {
+  padding-left: 0;
+}
+.footer-links-terms ul li:last-child {
+  border-right: 0;
+}
+
+.footer-links-wrapper h3 {
+  font-size: 12px;
+  font-weight: 600;
+  color: #1d1d1f;
+}
+.footer-wrapper ul li {
+  padding: 4px 0;
+}
+.upper-text-container {
+  border-bottom: 1px solid #d2d2d7;
+  padding: 17px 0 10px;
+  margin-bottom: 20px;
+}
+.upper-text-container a {
+  color: #515154;
+}
+/*Sixth Section*/
+.sixth-heghlight-wrapper .left-side-wrapper .left-side-container {
+  background-image: url("../images/new/tile__cauwwcyyn9hy_small.jpg");
+  background-color: #000;
+  background-position: bottom;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: cover;
+}
+.sixth-heghlight-wrapper .right-side-wrapper .right-side-container {
+  background-image: url("../images/new/promo_katy_perry__eqekd92guu4i_small.jpg");
+  color: #fbfbfd;
+  background-position: bottom;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: auto;
+}
+
+.left-side-container {
+  min-height: 515px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.right-side-container {
+  min-height: 515px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+.left-side-wrapper {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.right-side-wrapper {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.sixth-heghlight-wrapper .links-wrapper {
+  max-width: 300px;
+  margin: 0 auto;
+}
+.links-wrapper ul {
+  list-style: none;
+}
+.product-title {
+  font-weight: 700;
+  font-size: 56px;
+}
+.brief-description {
+  font-size: 2em;
+}
+.sixth-heghlight-wrapper .description-wraper {
+  max-width: 250px;
+  margin: 7px auto;
+}
+.description-wraper.white {
+  color: white;
+}
+.links-wrapper {
+  padding: 15px 0;
+}
+.links-wrapper ul li {
+  display: inline-block;
+  padding-right: 20px;
+}
+.links-wrapper ul li a {
+  color: #06c;
+  text-decoration: none;
+  font-size: 21px;
+}
+.links-wrapper ul li a:hover {
+  color: #000;
+}
+.links-wrapper ul li a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}
+.title-wraper {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.15em;
+  letter-spacing: -0.04em;
+}
+.title-wraper.bold {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.15em;
+  letter-spacing: -0.04em;
+}
+.right-side-wrapper .title-wraper {
+  max-width: 280px;
+  margin: 0 auto;
+}
+.description-wrapper {
+  font-size: 26px;
+  padding: 10px 0;
+}
+/*Fifth Section*/
+.fifth-heghlight-wrapper .left-side-wrapper .left-side-container {
+  background-image: url("../images/new/promo_mbp13__buwssod6c8vm_large.jpg");
+  background-color: #fff;
+  color: #fff;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: cover;
+}
+.fifth-heghlight-wrapper .right-side-wrapper .right-side-container {
+  background-image: url("../images/new/promo_ipadair_avail__ferd4bfpcdm6_small.jpg");
+  color: #fbfbfd;
+  background-position: bottom;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: auto;
+}
+.fifth-heghlight-wrapper .description-wraper {
+  max-width: 450px;
+  margin: 7px auto;
+}
+.watch-more-wrapper a {
+  text-decoration: none;
+  font-size: 0.85em;
+  color: #fff;
+}
+.watch-more-wrapper a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f144";
+  padding-left: 15px;
+}
+.tvshow-logo-wraper {
+  padding: 340px 0 0px;
+}
+/* Fourth section */
+.fourth-heghlight-wrapper .left-side-wrapper .left-side-container {
+  background-image: url("../images/new/promo_ws7_hard_knocks__e1bfj1fios6e_small.jpg");
+  color: #fbfbfd;
+  background-position: bottom;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: auto;
+}
+.fourth-heghlight-wrapper .right-side-wrapper .right-side-container {
+  background-image: url("../images/new/promo_iphone13pro_avail__beadms4ldidu_small.jpg");
+  background-color: #165ca9;
+  background-position: bottom;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: auto;
+  color: #000;
+}
+/* .links-wrapper.white li a {
+	color: #fff;
+} */
+.fourth-heghlight-wrapper .right-side-wrapper .title-wraper {
+  max-width: 380px;
+}
+.fourth-heghlight-wrapper .left-side-container .description-wraper {
+  max-width: 450px;
+  margin: 7px auto;
+}
+.watch-more-wrapper a {
+  text-decoration: none;
+  font-size: 0.85em;
+  color: #fff;
+}
+.watch-more-wrapper a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f144";
+  padding-left: 15px;
+}
+.tvshow-logo-wraper {
+  padding: 340px 0 0px;
+}
+/* Third section*/
+.third-hightlight-wrapper {
+  background-image: url("../images/new/hero_bts__bcuslanw39xe_large.jpg");
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 65px 20px;
+  color: #000;
+}
+.third-hightlight-wrapper .title-wrapera {
+  font-size: 53px;
+  font-weight: 400px;
+}
+.third-hightlight-wrapper .description-wrappera {
+  font-size: 20px;
+}
+.thred {
+  color: #ca2166;
+}
+/*Second section*/
+.seconda-hightlight-wrapper {
+  background-image: url("../images/new/hero_iphone13_avail__gnqqkzuai6um_large.jpg");
+  height: 736px;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: initial;
+  background-color: #fbfbfd;
+  text-align: center;
+  padding: 65px 20px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+/*First Section*/
+
+.first-heghlight-wrapper {
+  background-image: url("../images/new/hero_macbookair__el7scava26mq_large.png");
+  height: 580px;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: initial;
+  background-color: #fbfbfd;
+  color: #000;
+  margin-bottom: 10px;
+}
+.word {
+  padding-top: 181px;
+  padding-left: 233px;
+}
+.word .title-wraper {
+  font-size: 56px;
+  line-height: 1.07143;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+}
+.word .description-wraper {
+  font-size: 28px;
+  line-height: 1.10722;
+  font-weight: 400;
+  letter-spacing: 0.004em;
+  margin-top: 6px;
+  padding-left: 33px;
+}
+.word .price-wrapper {
+  color: #86868b;
+  margin-top: 12px;
+  font-size: 21px;
+  line-height: 1.381;
+  font-weight: 400;
+  letter-spacing: 0.011em;
+  padding-left: 58px;
+}
+/* Alert section */
+.alert-section {
+  text-align: center;
+  padding: 20px;
+}
+.alert-title {
+  font-weight: 600;
+  color: #1d1d1f;
+  padding: 10px;
+}
+.alert-text {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+/*Media Query*/
+@media (max-width: 768px) {
+  .first-heghlight-wrapper {
+    background-image: url("../images/new/hero_macbookair__el7scava26mq_small.png");
+  }
+  .word {
+    padding-top: 50px;
+    text-align: center;
+    padding-left: 30px;
+  }
+  .word .title-wraper {
+    font-size: 36px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -0.005em;
+  }
+  .word .description-wraper {
+    width: 350px;
+    padding-left: 110px;
+  }
+  .word .price-wrapper {
+    display: none;
+  }
+}
+@media (min-width: 768px) {
+  /*Nav bar*/
+  .nav-item {
+    text-align: center !important;
+    padding: -3px;
+    border-bottom: 0px;
+  }
+  .nav-link {
+    padding: 0 0px;
+  }
+  /*Footer styling*/
+  .my-apple-wrapper {
+    border-bottom: 1px solid #d2d2d7;
+  }
+  /*Sixth section*/
+  .sixth-heghlight-wrapper .left-side-wrapper .left-side-container {
+    margin: 5px 5px 10px 10px;
+  }
+  .sixth-heghlight-wrapper .right-side-wrapper .right-side-container {
+    margin: 5px 10px 10px 5px;
+  }
+  .sixth-heghlight-wrapper .links-wrapper {
+    max-width: 500px;
+  }
+  /*Fifth section*/
+  .fifth-heghlight-wrapper .left-side-wrapper .left-side-container {
+    margin: 5px 5px 5px 10px;
+  }
+  .fifth-heghlight-wrapper .right-side-wrapper .right-side-container {
+    margin: 5px 10px 5px 5px;
+  }
+  /*fourth section*/
+  .fourth-heghlight-wrapper .left-side-wrapper .left-side-container {
+    margin: 10px 5px 5px 10px;
+  }
+  .fourth-heghlight-wrapper .right-side-wrapper .right-side-container {
+    margin: 10px 10px 5px 5px;
+  }
+  .title-wraper.bold {
+    font-size: 56px;
+  }
+  /* Second section */
+  .second-hightlight-wrapper {
+    min-height: 692px;
+    background-image: url("../images/home/macbookair-new.jpg");
+  }
+  .new-alert {
+    color: #bf4801;
+    font-size: 18px;
+  }
+  /* First section */
+  .first-hightlight-wrapper {
+    background-image: url("../images/home/ipodPronew.jpg");
+    min-height: 692px;
+  }
+  .ipod-caption {
+    padding-top: 415px;
+  }
+  /*Alert section*/
+  .alert-text {
+    max-width: 85%;
+    margin: 0 auto;
+  }
+}
+.owl-carousel {
+  width: 100%;
+  height: 620px;
+  margin: 0 auto;
+}
+
+.slide {
+  width: 80%;
+  margin: 0 auto;
+  height: 630px;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.slide-1 {
+  background-image: url(../images/move/frist.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+
+.slide-2 {
+  background-image: url(../images/move/Second.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+
+.slide-3 {
+  background-image: url(../images/move/Third.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+.slide-4 {
+  background-image: url(../images/move/Fourth.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+.slide-5 {
+  background-image: url(../images/move/Fifth.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+.slide-6 {
+  background-image: url(../images/move/Sixth.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+.slide-7 {
+  background-image: url(../images/move/Seventh.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+.slide-8 {
+  background-image: url(../images/move/eighth.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+.slide-9 {
+  background-image: url(../images/move/ninth.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+.slide-10 {
+  background-image: url(../images/move/tenth.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+.slide-11 {
+  background-image: url(../images/move/eleventh.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+.slide-12 {
+  background-image: url(../images/move/twelve.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+
+.slide-content {
+  display: flex;
+  text-align: left;
+  position: absolute;
+  top: 540px;
+  transform: translateY(-50%);
+  color: #fff;
+  padding-left: 80px;
+  padding-bottom: 40px;
+}
+
+.slide-content h3 {
+  font-family: "Anton", serif;
+  font-size: 21px;
+  transform: translateY(-50%);
+  margin-top: 23px;
+  margin-left: 26px;
+}
+@keyframes fade-inout {
+  0% {
+    opacity: -1;
+    line-height: 200px;
+  }
+  to {
+    opacity: 1;
+    line-height: 1px;
+  }
+}
+
+.slide-content {
+  animation: fade-inout 3s;
+}
+
+.slide-content button {
+  font-family: "Roboto", serif;
+  font-size: 12px;
+  font-weight: bolder;
+  padding: 1px 44px;
+  border: none;
+  height: 50px;
+  width: 170px;
+  border-radius: 33px;
+}
+.slide-content button::after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f144";
+  padding-left: 10px;
+}
+
+.owl-dots {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  bottom: 1%;
+}
+
+.owl-dots span {
+  width: 10px !important;
+  height: 10px !important;
+}
+
+.owl-dots button {
+  border: none !important;
+  outline: none !important;
+}
+@media (max-width: 768px) {
+  .footer-links-wrapper ul {
+    display: none;
+  }
+  .slide-content {
+    display: block;
+    padding-left: 10px;
+    margin-bottom: -140px;
+  }
+  .footer-links-wrapper h3 {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+  }
+  .footer-links-wrapper h3:after {
+    font-family: "FontAwesome";
+    content: "\f067";
+    padding-left: 10px;
+    position: absolute;
+    right: 25px;
+  }
+}
+@media (min-width: 992px) {
+  /*Footer styling*/
+  .copyright {
+    margin-top: 10px;
+  }
+  .footer-country {
+    margin-top: 10px;
+  }
+  .footer-links-terms {
+    margin-top: 10px;
+  }
+}
